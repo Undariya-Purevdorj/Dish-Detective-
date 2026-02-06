@@ -39,6 +39,11 @@ Dish Detective is an interactive guess-that-food quiz trivia game that challenge
 - Show total score with message:
 - "You answered X out of Y!" + Encouraging message + “Try again” button.
 
+
+**How To Start The Game:**
+Open your editor/IDE's terminal;
+To run the game locally: requires Node.js + npm — run `npm install` followed by `npm run dev` (or `npm start`).
+
 <ins>**Randomizations**</ins>
 - Randomize question and answer order on each playthrough.
 
