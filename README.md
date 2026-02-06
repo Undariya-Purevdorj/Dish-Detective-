@@ -1,5 +1,9 @@
 # Dish-Detective-
 
+**How To Start The Game:**
+Open your editor/IDE's terminal;
+To run the game locally: requires Node.js + npm — run `npm install` followed by `npm run dev` (or `npm start`).
+
 **Project Description:**
 
 Dish Detective is an interactive guess-that-food quiz trivia game that challenges the user's knowledge of different popular dishes worldwide. A user is presented with multiple choice questions, and they must guess the correct answer based on detailed hints such as the dish's appearance, ingredients, cultural origin, etc. The options will be displayed as text-based answers while the question will be an image or a text-based one. There is one standard difficulty level. The overall objective is to provide a fun and challenging learning experience for people who like yummy foods!
@@ -38,11 +42,6 @@ Dish Detective is an interactive guess-that-food quiz trivia game that challenge
 <ins>End of game summary:</ins>
 - Show total score with message:
 - "You answered X out of Y!" + Encouraging message + “Try again” button.
-
-
-**How To Start The Game:**
-Open your editor/IDE's terminal;
-To run the game locally: requires Node.js + npm — run `npm install` followed by `npm run dev` (or `npm start`).
 
 <ins>**Randomizations**</ins>
 - Randomize question and answer order on each playthrough.
